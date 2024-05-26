@@ -1,6 +1,9 @@
 # local package
 -e .
-
+tensorflow
+numpy
+pretty_midi
+music21
 # external requirements
 click
 Sphinx
