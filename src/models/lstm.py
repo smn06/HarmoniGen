@@ -17,3 +17,9 @@ def build_lstm_model(input_shape, output_shape):
     
     model.compile(loss='categorical_crossentropy', optimizer='adam')
     return model
+'''
+import numpy as np
+
+def apply_fourier_transform(sequence):
+    return np.fft.fft(sequence)
+'''
