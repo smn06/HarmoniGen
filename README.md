@@ -2,7 +2,7 @@
 
 #### Overview:
 
-HarmoniGen is an innovative project that explores the realm of music generation using Generative Adversarial Networks (GANs). This endeavor aims to push the boundaries of creativity by developing a GAN-based model capable of generating captivating music compositions spanning a spectrum of genres.
+HarmoniGen is a project that explores the realm of music generation using Generative Adversarial Networks (GANs). This endeavor aims to push the boundaries of creativity by developing a GAN-based model capable of generating captivating music compositions spanning a spectrum of genres.
 
 Project Organization
 ------------
